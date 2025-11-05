@@ -1,0 +1,74 @@
+<svg viewBox="0 0 520 520" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="520.000000" height="520.000000" fill="none" customFrame="#000000">
+	<defs>
+		<g id="pixso_custom_effect_0">
+			<effect x="0.000000" y="0.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.25" effectType="dropShadow" stdDeviation="4" radius="0" />
+		</g>
+		<filter id="filter_0" width="520.000000" height="520.000000" x="0.000000" y="0.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_0)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feColorMatrix result="hardAlpha" in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0 " />
+			<feOffset dx="0.000000" dy="0.000000" in="hardAlpha" />
+			<feGaussianBlur stdDeviation="1.33333337" />
+			<feComposite k2="-1" k3="1" in2="hardAlpha" operator="out" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+		<g id="pixso_custom_effect_1">
+			<effect x="0.000000" y="0.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.25" effectType="innerShadow" stdDeviation="9" radius="0" />
+		</g>
+		<filter id="filter_1" width="512.000000" height="512.000000" x="4.000000" y="4.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_1)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feBlend result="shape" in="SourceGraphic" in2="BackgroundImageFix" mode="normal" />
+			<feOffset dx="0.000000" dy="0.000000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="3" />
+			<feComposite k2="-1" k3="1" in2="SourceAlpha" operator="arithmetic" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0 " />
+			<feBlend result="effect_innerShadow_1" in2="shape" mode="normal" />
+		</filter>
+		<g id="pixso_custom_effect_2">
+			<effect x="0.000000" y="0.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.25" effectType="innerShadow" stdDeviation="4" radius="0" />
+			<effect x="0.000000" y="0.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.25" effectType="dropShadow" stdDeviation="4" radius="0" />
+		</g>
+		<filter id="filter_2" width="428.000000" height="428.000000" x="46.000000" y="46.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_2)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feOffset dx="0.000000" dy="0.000000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="1.33333337" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+			<feOffset dx="0.000000" dy="0.000000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="1.33333337" />
+			<feComposite k2="-1" k3="1" in2="SourceAlpha" operator="arithmetic" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0 " />
+			<feBlend result="effect_innerShadow_2" in2="shape" mode="normal" />
+		</filter>
+		<g id="pixso_custom_effect_3">
+			<effect x="0.000000" y="0.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.25" effectType="innerShadow" stdDeviation="4" radius="0" />
+			<effect x="0.000000" y="4.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.25" effectType="dropShadow" stdDeviation="4" radius="0" />
+		</g>
+		<filter id="filter_3" width="339.437500" height="368.000000" x="83.562500" y="56.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_3)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feOffset dx="0.000000" dy="4.000000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="1.33333337" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+			<feOffset dx="0.000000" dy="0.000000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="1.33333337" />
+			<feComposite k2="-1" k3="1" in2="SourceAlpha" operator="arithmetic" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0 " />
+			<feBlend result="effect_innerShadow_2" in2="shape" mode="normal" />
+		</filter>
+	</defs>
+	<g id="js0" filter="url(#filter_0)">
+		<g filter="url(#filter_1)">
+			<circle id="外圆" cx="260" cy="260" r="256" fill="rgb(255,51,0)" />
+		</g>
+		<g filter="url(#filter_2)">
+			<circle id="内圆" cx="260" cy="260" r="210" fill="rgb(255,255,255)" />
+		</g>
+		<g filter="url(#filter_3)">
+			<path id="" d="M225.219 286.031Q225.219 302.359 221.703 316.422Q218.188 330.484 209.359 341.109Q200.531 351.656 185.609 357.75Q170.766 363.766 148.109 363.766Q126.938 363.766 111.391 357.906Q95.9219 351.969 87.5625 345.25L102.016 313.531Q109.984 319 121.625 324Q133.344 328.922 145.531 328.922Q166 328.922 175.297 318.688Q184.594 308.453 184.594 283.453L184.594 137.203L225.219 137.203L225.219 286.031ZM330.473 328.922Q352.269 328.922 362.191 321.578Q372.113 314.234 372.113 300.797Q372.113 292.75 368.754 287.047Q365.394 281.266 359.144 276.656Q352.894 271.969 343.91 267.984Q334.926 263.922 323.441 260.094Q311.957 255.953 301.176 251.031Q290.473 246.031 282.269 238.688Q274.144 231.344 269.144 221.109Q264.223 210.875 264.223 196.422Q264.223 166.344 285.004 149.234Q305.863 132.125 341.644 132.125Q362.504 132.125 378.598 136.812Q394.769 141.422 404.066 146.812L391.566 179.469Q380.707 173.375 367.738 170.172Q354.769 166.969 341.019 166.969Q324.691 166.969 315.551 173.688Q306.488 180.406 306.488 192.594Q306.488 199.938 309.535 205.25Q312.582 210.484 318.129 214.703Q323.754 218.844 331.254 222.359Q338.832 225.875 347.738 229.078Q363.441 234.859 375.707 240.797Q388.051 246.656 396.488 254.859Q405.004 262.984 409.457 274.078Q413.988 285.094 413.988 300.797Q413.988 330.875 392.66 347.359Q371.41 363.766 330.473 363.766Q316.723 363.766 305.316 361.969Q293.988 360.25 285.16 357.75Q276.41 355.172 270.004 352.438Q263.598 349.703 259.769 347.516L271.566 314.547Q280.238 319.312 294.926 324.156Q309.691 328.922 330.473 328.922Z" fill="rgb(255,51,0)" fill-rule="nonzero" />
+		</g>
+	</g>
+</svg>
